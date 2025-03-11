@@ -8,3 +8,4 @@
 #5.Commit done on List Data Structure
 #6.commit done more function on List
 #7.Commit done on Tuple Datastructure
+#8.Commit done on NUMPY array Basics
